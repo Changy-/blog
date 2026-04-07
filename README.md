@@ -3,6 +3,7 @@
 This repository contains my technical writing on security, authorization, AI and system design.
 
 ## Posts
+- [Agent Permissions System Analysis Part1](./posts/Agent_Permissions_System_Analysis.md)
 
 
 ## About
